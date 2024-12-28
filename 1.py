@@ -18,6 +18,6 @@ for i in range(max(l2)+1):
 for el in l1:
     if(matr[el]!=0):
         cnt+=el*matr[el]
-# print(cnt)
+# print(cnt)a
         
         
