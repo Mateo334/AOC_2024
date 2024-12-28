@@ -1,5 +1,5 @@
-single stars so far:
+single stars at task n.:
 2
 
-working on: 
+working on task n.: 
 4
